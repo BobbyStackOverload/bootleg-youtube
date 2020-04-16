@@ -1,0 +1,32 @@
+* {
+    background-color: lightblue;
+}
+
+.container {
+    background-color: blue;
+}
+
+.five {
+    background-color: red;
+}
+
+.eleven {
+    background-color: orange;
+}
+
+.grid {
+    background-color: salmon;
+}
+
+.row    {
+    background-color: black;
+}
+
+
+.form {
+    background-color: black;
+}
+
+.segment {
+    background-color: blueviolet;
+}
