@@ -30,3 +30,7 @@
 .segment {
     background-color: blueviolet;
 }
+
+.field {
+    background-color: grey;
+}
